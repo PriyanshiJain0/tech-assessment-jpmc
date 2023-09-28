@@ -1,0 +1,14 @@
+.asset {
+  &__row {
+    &--Credit td {
+      background-color: #43A047;
+    }
+    &--Equities td {
+      background-color: #1976D2;
+    }
+  }
+}
+
+.price__col--red {
+    color: #FF3D00 !important;
+}
